@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="3.0">
+  <GlyphOrder src="Merriweather-Black.GlyphOrder.ttx"/>
+  <head src="Merriweather-Black._h_e_a_d.ttx"/>
+  <hhea src="Merriweather-Black._h_h_e_a.ttx"/>
+  <maxp src="Merriweather-Black._m_a_x_p.ttx"/>
+  <OS_2 src="Merriweather-Black.O_S_2f_2.ttx"/>
+  <hmtx src="Merriweather-Black._h_m_t_x.ttx"/>
+  <cmap src="Merriweather-Black._c_m_a_p.ttx"/>
+  <fpgm src="Merriweather-Black._f_p_g_m.ttx"/>
+  <prep src="Merriweather-Black._p_r_e_p.ttx"/>
+  <cvt src="Merriweather-Black._c_v_t.ttx"/>
+  <loca src="Merriweather-Black._l_o_c_a.ttx"/>
+  <glyf src="Merriweather-Black._g_l_y_f.ttx"/>
+  <name src="Merriweather-Black._n_a_m_e.ttx"/>
+  <post src="Merriweather-Black._p_o_s_t.ttx"/>
+  <gasp src="Merriweather-Black._g_a_s_p.ttx"/>
+  <GSUB src="Merriweather-Black.G_S_U_B_.ttx"/>
+  <TTFA src="Merriweather-Black.T_T_F_A_.ttx"/>
+</ttFont>
