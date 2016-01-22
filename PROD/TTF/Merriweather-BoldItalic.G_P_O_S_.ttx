@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont ttLibVersion="3.0">
+
+  <GPOS>
+    <Version value="1.0"/>
+    <ScriptList>
+      <!-- ScriptCount=2 -->
+      <ScriptRecord index="0">
+        <ScriptTag value="DFLT"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=1 -->
+            <FeatureIndex index="0" value="0"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+      <ScriptRecord index="1">
+        <ScriptTag value="latn"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=1 -->
+            <FeatureIndex index="0" value="1"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=5 -->
+          <LangSysRecord index="0">
+            <LangSysTag value="AZE "/>
+            <LangSys>
+              <ReqFeatureIndex value="65535"/>
+              <!-- FeatureCount=1 -->
+              <FeatureIndex index="0" value="2"/>
+            </LangSys>
+          </LangSysRecord>
+          <LangSysRecord index="1">
+            <LangSysTag value="CRT "/>
+            <LangSys>
+              <ReqFeatureIndex value="65535"/>
+              <!-- FeatureCount=1 -->
+              <FeatureIndex index="0" value="3"/>
+            </LangSys>
+          </LangSysRecord>
+          <LangSysRecord index="2">
+            <LangSysTag value="MOL "/>
+            <LangSys>
+              <ReqFeatureIndex value="65535"/>
+              <!-- FeatureCount=1 -->
+              <FeatureIndex index="0" value="4"/>
+            </LangSys>
+          </LangSysRecord>
+          <LangSysRecord index="3">
+            <LangSysTag value="ROM "/>
+            <LangSys>
+              <ReqFeatureIndex value="65535"/>
+              <!-- FeatureCount=1 -->
+              <FeatureIndex index="0" value="5"/>
+            </LangSys>
+          </LangSysRecord>
+          <LangSysRecord index="4">
+            <LangSysTag value="TRK "/>
+            <LangSys>
+              <ReqFeatureIndex value="65535"/>
+              <!-- FeatureCount=1 -->
+              <FeatureIndex index="0" value="6"/>
+            </LangSys>
+          </LangSysRecord>
+        </Script>
+      </ScriptRecord>
+    </ScriptList>
+    <FeatureList>
+      <!-- FeatureCount=7 -->
+      <FeatureRecord index="0">
+        <FeatureTag value="kern"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="1">
+        <FeatureTag value="kern"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="2">
+        <FeatureTag value="kern"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="3">
+        <FeatureTag value="kern"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="4">
+        <FeatureTag value="kern"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="5">
+        <FeatureTag value="kern"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="6">
+        <FeatureTag value="kern"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+    </FeatureList>
+    <LookupList>
+      <!-- LookupCount=1 -->
+      <Lookup index="0">
+        <!-- LookupType=2 -->
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <PairPos index="0" Format="1">
+          <Coverage>
+            <Glyph value="T"/>
+            <Glyph value="u"/>
+          </Coverage>
+          <ValueFormat1 value="4"/>
+          <ValueFormat2 value="0"/>
+          <!-- PairSetCount=2 -->
+          <PairSet index="0">
+            <!-- PairValueCount=15 -->
+            <PairValueRecord index="0">
+              <SecondGlyph value="g"/>
+              <Value1 XAdvance="-100"/>
+            </PairValueRecord>
+            <PairValueRecord index="1">
+              <SecondGlyph value="i"/>
+              <Value1 XAdvance="-25"/>
+            </PairValueRecord>
+            <PairValueRecord index="2">
+              <SecondGlyph value="j"/>
+              <Value1 XAdvance="-25"/>
+            </PairValueRecord>
+            <PairValueRecord index="3">
+              <SecondGlyph value="m"/>
+              <Value1 XAdvance="-75"/>
+            </PairValueRecord>
+            <PairValueRecord index="4">
+              <SecondGlyph value="n"/>
+              <Value1 XAdvance="-75"/>
+            </PairValueRecord>
+            <PairValueRecord index="5">
+              <SecondGlyph value="o"/>
+              <Value1 XAdvance="-100"/>
+            </PairValueRecord>
+            <PairValueRecord index="6">
+              <SecondGlyph value="p"/>
+              <Value1 XAdvance="-75"/>
+            </PairValueRecord>
+            <PairValueRecord index="7">
+              <SecondGlyph value="r"/>
+              <Value1 XAdvance="-75"/>
+            </PairValueRecord>
+            <PairValueRecord index="8">
+              <SecondGlyph value="s"/>
+              <Value1 XAdvance="-100"/>
+            </PairValueRecord>
+            <PairValueRecord index="9">
+              <SecondGlyph value="t"/>
+              <Value1 XAdvance="-75"/>
+            </PairValueRecord>
+            <PairValueRecord index="10">
+              <SecondGlyph value="u"/>
+              <Value1 XAdvance="-100"/>
+            </PairValueRecord>
+            <PairValueRecord index="11">
+              <SecondGlyph value="w"/>
+              <Value1 XAdvance="-100"/>
+            </PairValueRecord>
+            <PairValueRecord index="12">
+              <SecondGlyph value="x"/>
+              <Value1 XAdvance="-100"/>
+            </PairValueRecord>
+            <PairValueRecord index="13">
+              <SecondGlyph value="y"/>
+              <Value1 XAdvance="-100"/>
+            </PairValueRecord>
+            <PairValueRecord index="14">
+              <SecondGlyph value="z"/>
+              <Value1 XAdvance="-100"/>
+            </PairValueRecord>
+          </PairSet>
+          <PairSet index="1">
+            <!-- PairValueCount=1 -->
+            <PairValueRecord index="0">
+              <SecondGlyph value="r"/>
+              <Value1 XAdvance="-10"/>
+            </PairValueRecord>
+          </PairSet>
+        </PairPos>
+      </Lookup>
+    </LookupList>
+  </GPOS>
+
+</ttFont>

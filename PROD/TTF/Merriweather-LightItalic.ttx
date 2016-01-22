@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="3.0">
+  <GlyphOrder src="Merriweather-LightItalic.GlyphOrder.ttx"/>
+  <head src="Merriweather-LightItalic._h_e_a_d.ttx"/>
+  <hhea src="Merriweather-LightItalic._h_h_e_a.ttx"/>
+  <maxp src="Merriweather-LightItalic._m_a_x_p.ttx"/>
+  <OS_2 src="Merriweather-LightItalic.O_S_2f_2.ttx"/>
+  <hmtx src="Merriweather-LightItalic._h_m_t_x.ttx"/>
+  <cmap src="Merriweather-LightItalic._c_m_a_p.ttx"/>
+  <fpgm src="Merriweather-LightItalic._f_p_g_m.ttx"/>
+  <prep src="Merriweather-LightItalic._p_r_e_p.ttx"/>
+  <cvt src="Merriweather-LightItalic._c_v_t.ttx"/>
+  <loca src="Merriweather-LightItalic._l_o_c_a.ttx"/>
+  <glyf src="Merriweather-LightItalic._g_l_y_f.ttx"/>
+  <name src="Merriweather-LightItalic._n_a_m_e.ttx"/>
+  <post src="Merriweather-LightItalic._p_o_s_t.ttx"/>
+  <gasp src="Merriweather-LightItalic._g_a_s_p.ttx"/>
+  <FFTM src="Merriweather-LightItalic.F_F_T_M_.ttx"/>
+  <GDEF src="Merriweather-LightItalic.G_D_E_F_.ttx"/>
+  <GPOS src="Merriweather-LightItalic.G_P_O_S_.ttx"/>
+  <GSUB src="Merriweather-LightItalic.G_S_U_B_.ttx"/>
+</ttFont>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont ttLibVersion="3.0">
+
+  <GPOS>
+    <Version value="1.0"/>
+    <ScriptList>
+      <!-- ScriptCount=1 -->
+      <ScriptRecord index="0">
+        <ScriptTag value="latn"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=1 -->
+            <FeatureIndex index="0" value="0"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+    </ScriptList>
+    <FeatureList>
+      <!-- FeatureCount=1 -->
+      <FeatureRecord index="0">
+        <FeatureTag value="kern"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+    </FeatureList>
+    <LookupList>
+      <!-- LookupCount=1 -->
+      <Lookup index="0">
+        <!-- LookupType=2 -->
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <PairPos index="0" Format="1">
+          <Coverage>
+            <Glyph value="T"/>
+            <Glyph value="a"/>
+            <Glyph value="u"/>
+          </Coverage>
+          <ValueFormat1 value="4"/>
+          <ValueFormat2 value="0"/>
+          <!-- PairSetCount=3 -->
+          <PairSet index="0">
+            <!-- PairValueCount=16 -->
+            <PairValueRecord index="0">
+              <SecondGlyph value="g"/>
+              <Value1 XAdvance="-96"/>
+            </PairValueRecord>
+            <PairValueRecord index="1">
+              <SecondGlyph value="i"/>
+              <Value1 XAdvance="-24"/>
+            </PairValueRecord>
+            <PairValueRecord index="2">
+              <SecondGlyph value="j"/>
+              <Value1 XAdvance="-24"/>
+            </PairValueRecord>
+            <PairValueRecord index="3">
+              <SecondGlyph value="m"/>
+              <Value1 XAdvance="-72"/>
+            </PairValueRecord>
+            <PairValueRecord index="4">
+              <SecondGlyph value="n"/>
+              <Value1 XAdvance="-72"/>
+            </PairValueRecord>
+            <PairValueRecord index="5">
+              <SecondGlyph value="o"/>
+              <Value1 XAdvance="-96"/>
+            </PairValueRecord>
+            <PairValueRecord index="6">
+              <SecondGlyph value="p"/>
+              <Value1 XAdvance="-72"/>
+            </PairValueRecord>
+            <PairValueRecord index="7">
+              <SecondGlyph value="r"/>
+              <Value1 XAdvance="-72"/>
+            </PairValueRecord>
+            <PairValueRecord index="8">
+              <SecondGlyph value="s"/>
+              <Value1 XAdvance="-96"/>
+            </PairValueRecord>
+            <PairValueRecord index="9">
+              <SecondGlyph value="t"/>
+              <Value1 XAdvance="-72"/>
+            </PairValueRecord>
+            <PairValueRecord index="10">
+              <SecondGlyph value="u"/>
+              <Value1 XAdvance="-96"/>
+            </PairValueRecord>
+            <PairValueRecord index="11">
+              <SecondGlyph value="v"/>
+              <Value1 XAdvance="-96"/>
+            </PairValueRecord>
+            <PairValueRecord index="12">
+              <SecondGlyph value="w"/>
+              <Value1 XAdvance="-96"/>
+            </PairValueRecord>
+            <PairValueRecord index="13">
+              <SecondGlyph value="x"/>
+              <Value1 XAdvance="-96"/>
+            </PairValueRecord>
+            <PairValueRecord index="14">
+              <SecondGlyph value="y"/>
+              <Value1 XAdvance="-96"/>
+            </PairValueRecord>
+            <PairValueRecord index="15">
+              <SecondGlyph value="z"/>
+              <Value1 XAdvance="-96"/>
+            </PairValueRecord>
+          </PairSet>
+          <PairSet index="1">
+            <!-- PairValueCount=1 -->
+            <PairValueRecord index="0">
+              <SecondGlyph value="v"/>
+              <Value1 XAdvance="-26"/>
+            </PairValueRecord>
+          </PairSet>
+          <PairSet index="2">
+            <!-- PairValueCount=1 -->
+            <PairValueRecord index="0">
+              <SecondGlyph value="r"/>
+              <Value1 XAdvance="-12"/>
+            </PairValueRecord>
+          </PairSet>
+        </PairPos>
+      </Lookup>
+    </LookupList>
+  </GPOS>
+
+</ttFont>
