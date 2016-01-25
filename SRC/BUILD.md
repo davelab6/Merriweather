@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Open all the UFOs in Glyphs v2.3b
 
 File, Export to your Desktop, choose to remove overlaps, autohint, and do not save as TrueType
@@ -19,26 +18,17 @@ Then hint the fonts with ttfautohint v1.4.1
 
     mkdir TTF;
     cd TTF;
-=======
-Open the UFO in Glyphs v2.3b and Export to your Desktop.
-
-Choose to remove overlaps, do not autohint, and use TrueType.
-
-Then hint the fonts with ttfautohint v1.4.1:
-
->>>>>>> master
     mkdir UNHINTED;
     mv ~/Desktop/Merriweather-*.ttf UNHINTED/;
     for i in `ls -1 UNHINTED/*ttf`; do \
-      echo $i; ttfautohint -l 6 -r 50 \
-      -G 0 -x 11 -H 220 -D latn -f none \
+      echo $i; ttfautohint -l 6 -r 36 \
+      -G 0 -x 10 -H 350 -D latn -f cyrl \
       -w "" -X "" -I \
       $i $i-ta;
     done;
     mv UNHINTED/*-ta . ; 
     rename s/ttf-ta/ttf/g *;
 
-<<<<<<< HEAD
 Then fixup the TTX files by hand, correcting the NAME table
 
     cd ../..;
@@ -63,12 +53,3 @@ Then recompile
     ttx 2016-02-30/TTF/Merriweather-Light.ttx;
     ttx 2016-02-30/TTF/Merriweather-LightItalic.ttx;
     ttx 2016-02-30/TTF/Merriweather-Regular.ttx;
-=======
-Then fixup the TTX files by hand, correct the NAME table.
-
-    ttx *ttf;
-    rm *ttf;
-    # fix them
-    ttx *ttx;
-    rm *ttx;
->>>>>>> master
