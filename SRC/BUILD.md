@@ -1,9 +1,23 @@
-Open the UFO in Glyphs v2.3b and Export to your Desktop.
+Open all the UFOs in Glyphs v2.3b
 
-Choose to remove overlaps, do not autohint, and use TrueType.
+File, Export to your Desktop, choose to remove overlaps, autohint, and do not save as TrueType
 
-Then hint the fonts with ttfautohint v1.4.1:
+Make a directory for the release
 
+    mkdir 2016-02-30
+    cd 2016-02-30
+
+and copy the built files in
+
+    mkdir OTF;
+    mv ~/Desktop/Merriweather-*.otf OTF/;
+
+File, Export to your Desktop, choose to remove overlaps, do not autohint, and save as TrueType
+
+Then hint the fonts with ttfautohint v1.4.1
+
+    mkdir TTF;
+    cd TTF;
     mkdir UNHINTED;
     mv ~/Desktop/Merriweather-*.ttf UNHINTED/;
     for i in `ls -1 UNHINTED/*ttf`; do \
@@ -15,10 +29,27 @@ Then hint the fonts with ttfautohint v1.4.1:
     mv UNHINTED/*-ta . ; 
     rename s/ttf-ta/ttf/g *;
 
-Then fixup the TTX files by hand, correct the NAME table.
+Then fixup the TTX files by hand, correcting the NAME table
 
-    ttx *ttf;
-    rm *ttf;
-    # fix them
-    ttx *ttx;
-    rm *ttx;
+    cd ../..;
+    ttx -s 2016-02-30/*/*tf;
+    mate */*x 
+
+Then recompile
+
+    ttx 2016-02-30/OTF/Merriweather-Black.ttx;
+    ttx 2016-02-30/OTF/Merriweather-BlackItalic.ttx;
+    ttx 2016-02-30/OTF/Merriweather-Bold.ttx;
+    ttx 2016-02-30/OTF/Merriweather-BoldItalic.ttx;
+    ttx 2016-02-30/OTF/Merriweather-Italic.ttx;
+    ttx 2016-02-30/OTF/Merriweather-Light.ttx;
+    ttx 2016-02-30/OTF/Merriweather-LightItalic.ttx;
+    ttx 2016-02-30/OTF/Merriweather-Regular.ttx;
+    ttx 2016-02-30/TTF/Merriweather-Black.ttx;
+    ttx 2016-02-30/TTF/Merriweather-BlackItalic.ttx;
+    ttx 2016-02-30/TTF/Merriweather-Bold.ttx;
+    ttx 2016-02-30/TTF/Merriweather-BoldItalic.ttx;
+    ttx 2016-02-30/TTF/Merriweather-Italic.ttx;
+    ttx 2016-02-30/TTF/Merriweather-Light.ttx;
+    ttx 2016-02-30/TTF/Merriweather-LightItalic.ttx;
+    ttx 2016-02-30/TTF/Merriweather-Regular.ttx;
