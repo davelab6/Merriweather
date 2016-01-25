@@ -17,7 +17,7 @@
       DUP[ ]	/* DuplicateTopStack */
       MPPEM[ ]	/* MeasurePixelPerEm */
       PUSH[ ]	/* 1 value pushed */
-      10
+      11
       LTEQ[ ]	/* LessThenOrEqual */
       MPPEM[ ]	/* MeasurePixelPerEm */
       PUSH[ ]	/* 1 value pushed */
@@ -280,7 +280,7 @@
       1 10
       RS[ ]	/* ReadStore */
       PUSH[ ]	/* 1 value pushed */
-      2
+      3
       ADD[ ]	/* Add */
       RCVT[ ]	/* ReadCVT */
       MUL[ ]	/* Multiply */
@@ -878,7 +878,7 @@
       10
       SWAP[ ]	/* SwapTopStack */
       PUSH[ ]	/* 1 value pushed */
-      2
+      3
       ADD[ ]	/* Add */
       WS[ ]	/* WriteStore */
       DUP[ ]	/* DuplicateTopStack */
@@ -1085,7 +1085,7 @@
       10
       SWAP[ ]	/* SwapTopStack */
       PUSH[ ]	/* 1 value pushed */
-      2
+      3
       ADD[ ]	/* Add */
       WS[ ]	/* WriteStore */
       DUP[ ]	/* DuplicateTopStack */

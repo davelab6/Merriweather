@@ -238,9 +238,7 @@
     <mtx name="f_f" width="1418" lsb="-253"/>
     <mtx name="f_f_i" width="2087" lsb="-253"/>
     <mtx name="f_f_i_dflt" width="2087" lsb="-253"/>
-    <mtx name="f_f_i_trk" width="2047" lsb="-253"/>
     <mtx name="f_f_l" width="2053" lsb="-253"/>
-    <mtx name="f_i_trk" width="1378" lsb="-253"/>
     <mtx name="fi" width="1378" lsb="-253"/>
     <mtx name="five" width="1116" lsb="41"/>
     <mtx name="fl" width="1344" lsb="-253"/>
@@ -279,7 +277,7 @@
     <mtx name="icircumflex" width="671" lsb="48"/>
     <mtx name="idieresis" width="671" lsb="49"/>
     <mtx name="igrave" width="671" lsb="-25"/>
-    <mtx name="ij" width="1325" lsb="-248"/>
+    <mtx name="ij" width="1324" lsb="107"/>
     <mtx name="ij_acutecomb" width="1325" lsb="107"/>
     <mtx name="imacron" width="671" lsb="107"/>
     <mtx name="infinity" width="2418" lsb="195"/>

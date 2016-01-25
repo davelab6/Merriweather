@@ -229,9 +229,7 @@
     <mtx name="f" width="851" lsb="65"/>
     <mtx name="f_f" width="1702" lsb="65"/>
     <mtx name="f_f_i" width="2423" lsb="65"/>
-    <mtx name="f_f_i_trk" width="2423" lsb="65"/>
     <mtx name="f_f_l" width="2406" lsb="65"/>
-    <mtx name="f_i_trk" width="1572" lsb="65"/>
     <mtx name="fi" width="1572" lsb="65"/>
     <mtx name="five" width="1263" lsb="171"/>
     <mtx name="five.numr" width="963" lsb="121"/>
@@ -270,7 +268,7 @@
     <mtx name="icircumflex" width="721" lsb="-51"/>
     <mtx name="idieresis" width="721" lsb="-63"/>
     <mtx name="igrave" width="721" lsb="-31"/>
-    <mtx name="ij" width="1414" lsb="-19"/>
+    <mtx name="ij" width="1414" lsb="76"/>
     <mtx name="ij_acutecomb" width="1414" lsb="76"/>
     <mtx name="imacron" width="721" lsb="43"/>
     <mtx name="infinity" width="2069" lsb="90"/>
@@ -413,20 +411,20 @@
     <mtx name="uni01C4" width="2915" lsb="77"/>
     <mtx name="uni01C5" width="2720" lsb="77"/>
     <mtx name="uni01C6" width="2439" lsb="69"/>
-    <mtx name="uni01C7" width="2118" lsb="-37"/>
-    <mtx name="uni01C8" width="2004" lsb="-19"/>
-    <mtx name="uni01C9" width="1397" lsb="-19"/>
-    <mtx name="uni01CA" width="2455" lsb="-37"/>
-    <mtx name="uni01CB" width="2341" lsb="-19"/>
-    <mtx name="uni01CC" width="2112" lsb="-19"/>
+    <mtx name="uni01C7" width="2118" lsb="77"/>
+    <mtx name="uni01C8" width="2004" lsb="77"/>
+    <mtx name="uni01C9" width="1397" lsb="49"/>
+    <mtx name="uni01CA" width="2455" lsb="73"/>
+    <mtx name="uni01CB" width="2341" lsb="73"/>
+    <mtx name="uni01CC" width="2112" lsb="97"/>
     <mtx name="uni01CD" width="1443" lsb="-42"/>
     <mtx name="uni01CE" width="1161" lsb="58"/>
     <mtx name="uni01CF" width="850" lsb="43"/>
     <mtx name="uni01D2" width="1243" lsb="63"/>
     <mtx name="uni01D4" width="1324" lsb="67"/>
-    <mtx name="uni01F1" width="2915" lsb="31"/>
-    <mtx name="uni01F2" width="2719" lsb="45"/>
-    <mtx name="uni01F3" width="2438" lsb="45"/>
+    <mtx name="uni01F1" width="2915" lsb="77"/>
+    <mtx name="uni01F2" width="2719" lsb="77"/>
+    <mtx name="uni01F3" width="2438" lsb="69"/>
     <mtx name="uni01F4" width="1531" lsb="66"/>
     <mtx name="uni021A" width="1467" lsb="34"/>
     <mtx name="uni021B" width="836" lsb="50"/>

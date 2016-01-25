@@ -188,9 +188,7 @@
       <psName name="f_f"/>
       <psName name="f_f_i"/>
       <psName name="f_f_i_dflt"/>
-      <psName name="f_f_i_trk"/>
       <psName name="f_f_l"/>
-      <psName name="f_i_trk"/>
       <psName name="IJ_acutecomb"/>
       <psName name="ij_acutecomb"/>
       <psName name="uni0410"/>
@@ -489,9 +487,9 @@
       <psName name="caronvertical"/>
       <psName name="DC1"/>
       <psName name="DC2"/>
-      <psName name="DC3"/>
       <psName name="DC4"/>
       <psName name="DLE"/>
+      <psName name="DC3"/>
       <psName name="Gtilde"/>
       <psName name="HT"/>
       <psName name="LF"/>
