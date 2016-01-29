@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="OTTO" ttLibVersion="3.0">
+  <GlyphOrder src="Merriweather-BlackItalic.GlyphOrder.ttx"/>
+  <head src="Merriweather-BlackItalic._h_e_a_d.ttx"/>
+  <hhea src="Merriweather-BlackItalic._h_h_e_a.ttx"/>
+  <maxp src="Merriweather-BlackItalic._m_a_x_p.ttx"/>
+  <OS_2 src="Merriweather-BlackItalic.O_S_2f_2.ttx"/>
+  <name src="Merriweather-BlackItalic._n_a_m_e.ttx"/>
+  <cmap src="Merriweather-BlackItalic._c_m_a_p.ttx"/>
+  <post src="Merriweather-BlackItalic._p_o_s_t.ttx"/>
+  <CFF src="Merriweather-BlackItalic.C_F_F_.ttx"/>
+  <GDEF src="Merriweather-BlackItalic.G_D_E_F_.ttx"/>
+  <GPOS src="Merriweather-BlackItalic.G_P_O_S_.ttx"/>
+  <GSUB src="Merriweather-BlackItalic.G_S_U_B_.ttx"/>
+  <hmtx src="Merriweather-BlackItalic._h_m_t_x.ttx"/>
+</ttFont>
