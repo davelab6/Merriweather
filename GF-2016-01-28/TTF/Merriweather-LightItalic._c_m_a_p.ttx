@@ -647,8 +647,8 @@
       <map code="0x20b1" name="uni20B1"/><!-- PESO SIGN -->
       <map code="0x20b2" name="uni20B2"/><!-- GUARANI SIGN -->
       <map code="0x20b5" name="uni20B5"/><!-- CEDI SIGN -->
-      <map code="0x20b9" name="uni20B9"/><!-- INDIAN RUPEE SIGN -->
-      <map code="0x20ba" name="uni20BA"/><!-- TURKISH LIRA SIGN -->
+      <map code="0x20b9" name="uni20B9"/><!-- ???? -->
+      <map code="0x20ba" name="uni20BA"/><!-- ???? -->
       <map code="0x2105" name="uni2105"/><!-- CARE OF -->
       <map code="0x2113" name="uni2113"/><!-- SCRIPT SMALL L -->
       <map code="0x2116" name="uni2116"/><!-- NUMERO SIGN -->
@@ -1572,8 +1572,8 @@
       <map code="0x20b1" name="uni20B1"/><!-- PESO SIGN -->
       <map code="0x20b2" name="uni20B2"/><!-- GUARANI SIGN -->
       <map code="0x20b5" name="uni20B5"/><!-- CEDI SIGN -->
-      <map code="0x20b9" name="uni20B9"/><!-- INDIAN RUPEE SIGN -->
-      <map code="0x20ba" name="uni20BA"/><!-- TURKISH LIRA SIGN -->
+      <map code="0x20b9" name="uni20B9"/><!-- ???? -->
+      <map code="0x20ba" name="uni20BA"/><!-- ???? -->
       <map code="0x2105" name="uni2105"/><!-- CARE OF -->
       <map code="0x2113" name="uni2113"/><!-- SCRIPT SMALL L -->
       <map code="0x2116" name="uni2116"/><!-- NUMERO SIGN -->

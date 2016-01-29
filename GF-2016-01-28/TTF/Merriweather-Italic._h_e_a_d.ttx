@@ -4,13 +4,13 @@
   <head>
     <!-- Most of this table will be recalculated by the compiler -->
     <tableVersion value="1.0"/>
-    <fontRevision value="1.583"/>
-    <checkSumAdjustment value="0xbcbc4ca4"/>
+    <fontRevision value="1.584"/>
+    <checkSumAdjustment value="0x75247762"/>
     <magicNumber value="0x5f0f3cf5"/>
     <flags value="00000000 00000001"/>
     <unitsPerEm value="2048"/>
     <created value="Thu Jan 21 05:39:31 2016"/>
-    <modified value="Mon Jan 25 05:00:27 2016"/>
+    <modified value="Fri Jan 29 04:09:05 2016"/>
     <xMin value="-345"/>
     <yMin value="-560"/>
     <xMax value="2643"/>

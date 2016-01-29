@@ -11,11 +11,11 @@
     <maxCompositeContours value="5"/>
     <maxZones value="2"/>
     <maxTwilightPoints value="54"/>
-    <maxStorage value="70"/>
-    <maxFunctionDefs value="119"/>
+    <maxStorage value="71"/>
+    <maxFunctionDefs value="139"/>
     <maxInstructionDefs value="0"/>
     <maxStackElements value="176"/>
-    <maxSizeOfInstructions value="3042"/>
+    <maxSizeOfInstructions value="3350"/>
     <maxComponentElements value="4"/>
     <maxComponentDepth value="1"/>
   </maxp>

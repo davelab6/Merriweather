@@ -3,7 +3,7 @@
 
   <name>
     <namerecord nameID="0" platformID="3" platEncID="1" langID="0x409">
-      Copyright (c) 2010-2015, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name 'Merriweather'
+      Copyright (c) 2010-2016, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name 'Merriweather'
     </namerecord>
     <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
       Merriweather
@@ -12,13 +12,13 @@
       Bold
     </namerecord>
     <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
-      1.583;STC ;Merriweather-Bold
+      1.584;STC ;Merriweather-Bold
     </namerecord>
     <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
       Merriweather Bold
     </namerecord>
     <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
-      Version 1.583; ttfautohint (v1.4.1) -l 6 -r 50 -G 0 -x 11 -H 220 -D latn -f none -w "" -X ""
+      Version 1.584; ttfautohint (v1.5) -l 6 -r 36 -G 0 -x 10 -H 350 -D latn -f cyrl -w "" -X ""
     </namerecord>
     <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
       Merriweather-Bold
@@ -45,7 +45,7 @@
       This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
     </namerecord>
     <namerecord nameID="14" platformID="3" platEncID="1" langID="0x409">
-      http://sorkintype.com/eula.html
+      http://scripts.sil.org/OFL
     </namerecord>
   </name>
 

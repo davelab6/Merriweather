@@ -12,13 +12,13 @@
       Bold Italic
     </namerecord>
     <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
-      1.583;STC ;Merriweather-BoldItalic
+      1.584;STC ;Merriweather-BoldItalic
     </namerecord>
     <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
       Merriweather Bold Italic
     </namerecord>
     <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
-      Version 1.583;PS 001.583;hotconv 1.0.88;makeotf.lib2.5.64775
+      Version 1.584;PS 001.584;hotconv 1.0.88;makeotf.lib2.5.64775
     </namerecord>
     <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
       Merriweather-BoldItalic
